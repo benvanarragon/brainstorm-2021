@@ -21,6 +21,25 @@ I am currently in the **inception** phase. As Benjmain has quoted:
 
 So far we have covered how to create repositories, brainstorm in teams and get feedback, and use tools like **miro** and **GenMyModel**. Any other type of styling I may need for documenting my Readme in Markdown can be found [here](https://guides.github.com/features/mastering-markdown/_). Below you can find some simple elements of markdown styling. 
 
+## UML Diagrams
+
+### Use Case for Budgeting App
+![Use Case for Budgeting](./images/use_case.png)
+
+
+### Use Case for Sales Lead Tracking App
+![Use Case for Sales](./images/sales_lead_app.png)
+
+
+## Activity Diagrams
+
+### Activity Diagram for Budgeting App
+![Use Case for Budgeting](./images/use_case.png)
+
+
+### Activity Diagram for Sales Lead Tracking App
+![Use Case for Sales](./images/sales_lead_app.png)
+
 ## Styling
 ```markdown
 **bold** *italic* 
