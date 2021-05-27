@@ -19,4 +19,35 @@ I am currently in the **inception** phase. As Benjmain has quoted:
 > Planning to fail is failing to plan.
 
 
-So far we have covered how to create repositories, brainstorm in teams and get feedback, and use tools like **miro** and **GenMyModel**.
+So far we have covered how to create repositories, brainstorm in teams and get feedback, and use tools like **miro** and **GenMyModel**. Any other type of styling I may need for documenting my Readme in Markdown can be found [here](https://guides.github.com/features/mastering-markdown/_). Below you can find some simple elements of markdown styling. 
+
+## Styling
+```markdown
+**bold** *italic* 
+  ```
+## Quotes
+```markdown
+> "quote"
+  ```
+## Headings
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
+###### Heading 6
+  ```
+
+## Lists
+```markdown
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  ```
+
+## Images
+```markdown
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+```
