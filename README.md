@@ -70,3 +70,4 @@ So far we have covered how to create repositories, brainstorm in teams and get f
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
+
